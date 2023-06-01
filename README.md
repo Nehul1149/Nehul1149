@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nehul1149 (Nehul Kumar Singh)
 - 👀 I’m interested in ...coding👨‍💻, Learning new things.
-- 🌱 I’m currently learning ...Cyber Security & Networking
+- 🌱 I’m currently learning ...Cyber Security, Networking & DBMS
 - 😎I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Linkedin ID: [in/nehul-kumar-singh-7a2759232](https://www.linkedin.com/in/nehul-kumar-singh-7a2759232/)
